@@ -42,8 +42,11 @@ class MainFindingTheFirstNonrepeatedCharacter{
 + java -cp . Main
 First non-repeated character is: h
 
+
+
 class MainCheckingWhetherAStringContainsOnlyDigit{  
-  public static void main(String args[]){  
+  public static void main(String args[]){ 
+ 
     String str = "2783946";
     boolean result = str.matches("[0-9]+");
     System.out.println("String : " + str);
