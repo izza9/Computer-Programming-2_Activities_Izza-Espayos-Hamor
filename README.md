@@ -79,6 +79,7 @@ Return Value :Breakthenorms
 import java.util.Arrays;
 class MainCheckingwhetherTwoStringsAreAnagram {
   public static void main(String[] args) {
+
     String str1 = "night";
     String str2 = "thing";
     
