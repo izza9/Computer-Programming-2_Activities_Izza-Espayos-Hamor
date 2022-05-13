@@ -1,7 +1,8 @@
 # Computer-Programming-2_Activities_Izza-Espayos-Hamor
 
 class MainCountingDuplicateCharacters{  
-  public static void main(String args[]){  
+  public static void main(String args[]){ 
+ 
      String string1 = "Happy Birthday";  
         int count;  
           
